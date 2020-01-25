@@ -4,7 +4,7 @@ A simple network scanner tool in python which scan all the target IP's which are
 ***FIRST IT IS ESSENTIAL TO INSTALL SCAPY***
 
 
-***##IT IS IMPORTAN TO USE 'sudo' WHILE USING COMMAND.##***
+***IT IS IMPORTAN TO USE 'sudo' WHILE USING COMMAND.***
 
 
 ***## sudo apt-get install scapy && sudo pip3 install scapy-python3 ##***
@@ -13,9 +13,7 @@ A simple network scanner tool in python which scan all the target IP's which are
 ***AFTER INSTALLING SCAPY YOU CAN USE THIS TOOL EASILY***
 
 
-***sudo python net_scanner.py -t 'Target IP'***
+***## sudo python net_scanner.py -t 'Target IP' 0r sudo python3 net_scanner.py -t 'Target IP' ##***
 
-
-***sudo python net_scanner.py -t 'Target IP'***
 
 ***ENJOY***
